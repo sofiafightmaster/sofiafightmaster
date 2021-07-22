@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sofiafightmaster
 - 👀 I’m interested in writing and creating science fiction and fantasy stories that my audience can interact with and enjoy.
 - 🌱 I’m currently learning about programming, specifically Twine.
-- 💞️ I’m looking to collaborate on any aspect of any project. I love working collaboratively because I think it results in the best content.
+- 💞️ I’m looking to collaborate on any aspect of any project. I would love if anyone would be willing to help me with CSS and Javascript for my Twine project(s).
 - 📫 How to reach me: send me an email at [fightmaster.sofia@yahoo.com].
